@@ -13,7 +13,7 @@
 | Sub-Phase | 이름 | 세부 문서 | 상태 |
 |-----------|------|-----------|------|
 | 5-1 | 프로젝트 구조 설정 | phase-5-1-project-setup.md | 완료 |
-| 5-2 | 도메인 모델 및 영속성 계층 | phase-5-2-model-repository.md | 미착수 |
+| 5-2 | 도메인 모델 및 영속성 계층 | phase-5-2-model-repository.md | 완료 |
 | 5-3 | 시료 관리 기능 | phase-5-3-sample-management.md | 미착수 |
 | 5-4 | 시료 주문 및 승인·거절 기능 | phase-5-4-order-management.md | 미착수 |
 | 5-5 | 생산라인 기능 | phase-5-5-production.md | 미착수 |

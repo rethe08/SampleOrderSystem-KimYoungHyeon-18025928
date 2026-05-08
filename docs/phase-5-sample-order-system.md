@@ -17,7 +17,7 @@
 | 5-3 | 시료 관리 기능 | phase-5-3-sample-management.md | 완료 |
 | 5-4 | 시료 주문 및 승인·거절 기능 | phase-5-4-order-management.md | 완료 |
 | 5-5 | 생산라인 기능 | phase-5-5-production.md | 완료 |
-| 5-6 | 모니터링 및 출고 처리 기능 | phase-5-6-monitoring-release.md | 미착수 |
+| 5-6 | 모니터링 및 출고 처리 기능 | phase-5-6-monitoring-release.md | 완료 |
 | 5-7 | main.py 통합 | phase-5-7-main.md | 미착수 |
 
 ---
